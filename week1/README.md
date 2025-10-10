@@ -1,5 +1,7 @@
 ## HTML
 
+HTML is used to organize information and display it as a web page. It is the markup language of the web!
+
 ## Lists
 
 Discussed `<ul>` unordered lists, and `<ol>` ordered lists which can be used to stylize lists either with bullets or numbers
