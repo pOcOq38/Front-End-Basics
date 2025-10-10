@@ -2,6 +2,15 @@
 
 ### Week 1 - Computer Structure & Introduction to HTML
 
+HTML Introduction
+Starting HTML
+Lists
+Tables
+Div and Span
+Forms
+Iframes
+Media
+
 ### Week 2 - CSS Basics (Part 1)
 
 ### Week 3 - CSS Basics (Part 2)
