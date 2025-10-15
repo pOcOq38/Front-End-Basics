@@ -1,3 +1,5 @@
+# Week 1 - Computer Structure & Introduction to HTML
+
 ## HTML
 
 HTML is used to organize information and display it as a web page. It is the markup language of the web!
