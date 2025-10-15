@@ -19,5 +19,3 @@ Discussed `<table>` tables, which can be used to stylize tables.
 ## Forms
 
 `<from>` is a HTML element to collect input data. It provides facilities to input text, number, values, email, password, and control fields such as checkboxes, radio buttons, submits, buttons, etc.
-
-## Iframes
