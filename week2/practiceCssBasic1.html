@@ -8,13 +8,45 @@
       #title {
         color: #0000ff;
       }
-      body {
+      /* body {
         background-image: url(happy-halloween.jpg);
         background-repeat: repeat-y;
+      } */
+      .my-div {
+        border: 4px solid red;
+      }
+      .my-div-1 {
+        border: 1px solid black;
+        margin: 50px;
+      }
+      .para-div {
+        border-width: 2px 20px 6px 15px;
+        border-color: black;
+        border-style: dotted;
+      }
+      .title {
+        border: 8px groove red;
+        border-radius: 25px;
+        margin:auto;
+      }
+      .paragraph{
+        border: 5px dotted black;
+        margin: 8px 0 0 inherit;
+      
+
       }
     </style>
   </head>
   <body>
-    <h1 id="title">my recipe</h1>
+    <!-- <h1 id="title">my recipe</h1> -->
+    <div class="my-div">my-div</div>
+    <div class="my-div">my-div</div>
+    <div class="my-div">my-div</div>
+    <div class="my-div">my-div</div>
+    <p class="para-div">paragraph</p>
+    <p>This is a paragraph <div style="display: hidden;">with some text</div>in it.</p>
+    <div class="my-div-1">my-div-1</div>
+    <p class="title">title</p>
+    <p class="paragraph">paragraph</p>
   </body>
 </html>
